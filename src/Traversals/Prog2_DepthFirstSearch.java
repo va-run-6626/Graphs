@@ -33,7 +33,6 @@ public class Prog2_DepthFirstSearch {
         Arrays.fill(vis,false);
         vis[1] = true;
         dfsRecursive(vis,adj,1);
-        return;
     }
     private static void dfsRecursive(boolean[]vis, List<List<Integer>> adj, int node){
         vis[node] = true;
