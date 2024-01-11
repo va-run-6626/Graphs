@@ -1,9 +1,8 @@
 package Problems;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class prog10_NumberOfEnclaves {
+public class Prog10_NumberOfEnclaves {
     public static void main(String[] args) {
         int[][] grid = {
                 {0,0,0,0},
