@@ -1,4 +1,4 @@
-package Problems;
+package ProblemsUndirected;
 
 import java.util.ArrayList;
 import java.util.List;

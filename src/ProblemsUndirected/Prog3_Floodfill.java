@@ -1,4 +1,4 @@
-package Problems;
+package ProblemsUndirected;
 
 import java.util.Arrays;
 import java.util.LinkedList;

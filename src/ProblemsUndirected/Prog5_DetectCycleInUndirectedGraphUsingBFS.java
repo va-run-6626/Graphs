@@ -1,4 +1,4 @@
-package Problems;
+package ProblemsUndirected;
 import java.util.*;
 public class Prog5_DetectCycleInUndirectedGraphUsingBFS {
     public static void main(String[] args) {

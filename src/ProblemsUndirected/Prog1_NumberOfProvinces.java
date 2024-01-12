@@ -1,4 +1,4 @@
-package Problems;
+package ProblemsUndirected;
 import  java.util.*;
 public class Prog1_NumberOfProvinces {
     public static void main(String[] args) {
