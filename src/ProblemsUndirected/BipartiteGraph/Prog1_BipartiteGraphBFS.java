@@ -1,10 +1,10 @@
-package ProblemsUndirected;
+package ProblemsUndirected.BipartiteGraph;
 
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Prog12_BipartiteGraphBFS {
+public class Prog1_BipartiteGraphBFS {
     public static void main(String[] args) {
         int[][] adj = {
                 {},{2,4,6},{1,4,8,9},{7,8},{1,2,8,9},{6,9},{1,5,7,8,9},{3,6,9},{2,3,4,6,9},{2,4,5,6,7,8}
