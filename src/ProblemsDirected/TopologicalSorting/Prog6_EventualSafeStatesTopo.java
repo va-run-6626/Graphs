@@ -2,7 +2,7 @@ package ProblemsDirected.TopologicalSorting;
 
 import java.util.*;
 
-public class Prog5_EventualSafeStatesTopo {
+public class Prog6_EventualSafeStatesTopo {
         public static void main(String[] args) {
             int[][] edges = {
                     {0,1},
