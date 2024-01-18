@@ -2,7 +2,7 @@ package PathProblems;
 
 import java.util.*;
 
-public class Prog1_WordLadderI {
+public class Prog2_WordLadderI {
     public static void main(String[] args) {
         String begWord = "hit";
         String endWord = "cog";
